@@ -28,6 +28,7 @@ Sou estudante da ETEC Professor Basilides de Godoy. Atualmente, desenvolvo proje
 | [Calculadoras PW II](https://github.com/joao-dev-ds/calculadoras-pwII) | JavaScript | Coleção de calculadoras desenvolvidas em JavaScript para a disciplina de Programação Web II. |
 | [Bike](https://github.com/joao-dev-ds/bike) | C# | Projeto em C# focado em gerenciamento de bicicletas. |
 | [Moda do Amanhã](https://github.com/joao-dev-ds/modao-do-amanha) | C# | Projeto desenvolvido com foco em soluções inovadoras. |
+| [Sistema-de-Bicicleta](https://github.com/jottasilvasj/Sistema-de-Bicicleta) | C# | Sistema para gerenciamento de bicicletas. |
 
 ---
 
