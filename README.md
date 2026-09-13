@@ -26,7 +26,7 @@ Sou estudante da ETEC Professor Basilides de Godoy. Atualmente, desenvolvo proje
 | [Calculadora IMC e Peso Ideal](https://github.com/joao-dev-ds/Calculadora_IMC_e_Peso_Ideal) | HTML, CSS e JavaScript | Sistema web para cálculo de IMC e estimativa de peso ideal. |
 | [Cardápio](https://github.com/JoaoSJesus/Cardapio) | HTML, CSS, JavaScript | Projeto web para exibição e gerenciamento de cardápio digital. |
 | [Calculadoras PW II](https://github.com/joao-dev-ds/calculadoras-pwII) | JavaScript | Coleção de calculadoras desenvolvidas em JavaScript para a disciplina de Programação Web II. |
-| [Bike](https://github.com/joao-dev-ds/bike) | C# | Projeto em C# focado em gerenciamento de bicicletas. |
+| [Gestão Financeira](https://github.com/jottasilvasj/GestaoFinanceira) | C# | Projeto em C# focado em getsão financeira. |
 | [Moda do Amanhã](https://github.com/joao-dev-ds/modao-do-amanha) | C# | Projeto desenvolvido com foco em soluções inovadoras. |
 | [Sistema-de-Bicicleta](https://github.com/jottasilvasj/Sistema-de-Bicicleta) | C# | Sistema para gerenciamento de bicicletas. |
 
