@@ -22,7 +22,7 @@ Sou estudante da ETEC Professor Basilides de Godoy. Atualmente, desenvolvo proje
 
 | Projeto | Tecnologias | Descrição |
 | --- | --- | --- |
-| [Sistema de Pedido]([https://github.com/joao-dev-ds/Aplicativo_Mobile_IMC](https://github.com/jottasilvasj/Sistema-Pedidos-e-Checkout)) | C# | Sistema de Pedidos. |
+| [Sistema de Pedido](https://github.com/jottasilvasj/Sistema-Pedidos-e-Checkout) | C# | Sistema de Pedidos. |
 | [Calculadora IMC e Peso Ideal](https://github.com/joao-dev-ds/Calculadora_IMC_e_Peso_Ideal) | HTML, CSS e JavaScript | Sistema web para cálculo de IMC e estimativa de peso ideal. |
 | [Cardápio](https://github.com/JoaoSJesus/Cardapio) | HTML, CSS, JavaScript | Projeto web para exibição e gerenciamento de cardápio digital. |
 | [Calculadoras PW II](https://github.com/joao-dev-ds/calculadoras-pwII) | JavaScript | Coleção de calculadoras desenvolvidas em JavaScript para a disciplina de Programação Web II. |
